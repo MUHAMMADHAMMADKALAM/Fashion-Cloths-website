@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function Header(){
     return(
-    <nav className="h-20 mx-[50px] flex justify-between items-center">
+    <nav className="h-20 mx-[50px] flex justify-between items-center ">
         <div className="">
             <Image className="justify-center" src="/Frame 57.png" alt="icon" width="236" height="60" />
         

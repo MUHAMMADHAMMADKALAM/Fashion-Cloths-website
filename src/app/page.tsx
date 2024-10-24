@@ -5,9 +5,9 @@ export default function Home() {
     <main className=" my-[25px] h-80 ">
       <section className="flex mx-[50px] bg-[#F4F6F5] my-[25px] rounded-3xl justify-between">
         <div className="mt-[85px] ml-[65px] ">
-          <h1 className="font-extrabold text-7xl">LET'S</h1>
+          <h1 className="font-extrabold text-7xl bg-white mr-20  pl-2 pb-2">LET'S</h1>
           <h1 className="font-extrabold text-7xl">EXPLORE</h1>
-          <h1 className="font-extrabold text-7xl">UNIQUE</h1>
+          <h1 className="font-extrabold text-7xl  bg-[#EBD96B] mr-8 pl-2 pb-2 mt-2">UNIQUE</h1>
           <h1 className="font-extrabold text-7xl">CLOTHES.</h1>
           <h2 className="my-6 text-xl font-semibold">Live for Influential and Innovative fashion!</h2>
           <button className="hover:text-slate-400 active:text-slate-100 text-1xl font-bold bg-black text-white py-4 px-6 rounded-lg "> SHOP NOW</button>
@@ -42,7 +42,7 @@ export default function Home() {
 
         </div>
         <div className="mt-20  ml-16">
-          <h1 className="text-7xl font-extrabold mb-5">PAYDAY</h1>
+          <h1 className="text-7xl font-extrabold mb-5  bg-white mr-12  pl-2 pb-2">PAYDAY</h1>
           <h1 className="text-7xl font-extrabold mb-8"> SALE NOW</h1>
           <h2 className="text-2xl font-semibold mb-8">Spend minimal $100 get 30% off <br />
             voucher code for you next purchase
